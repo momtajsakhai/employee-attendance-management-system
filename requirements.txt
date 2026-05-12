@@ -1,0 +1,3 @@
+# Employee Attendance Management System
+# Python 3 standard library only: Tkinter, sqlite3
+# No pip packages required for basic run.
